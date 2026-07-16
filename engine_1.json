@@ -1,0 +1,15 @@
+{
+  "name": "arc-cortex-9542",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 9480,
+    "createdAt": "2026-07-16T06:16:36.513Z"
+  }
+}
